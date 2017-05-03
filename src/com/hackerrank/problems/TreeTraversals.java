@@ -1,7 +1,7 @@
 package com.hackerrank.problems;
 
-public class TreeTraversals {
-	//Preorder traversal for a binary tree
+public class TreeTraversals {//Orders point of reference for naming is the root. Preorder mean root first, inorder, root in the middle and postorder
+	// procese root last
 	void preOrder(Node root) {
 		if(root != null){
 

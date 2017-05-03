@@ -12,7 +12,6 @@ public class ReverseArray {
 			start++;
 			end--;
 		}
-		Arrays.sort(arr);
 	}
 
 

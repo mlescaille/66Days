@@ -3,6 +3,8 @@ package com.hackerrank.cracking;
 import java.util.Hashtable;
 import java.util.Scanner;
 
+//TODO Add problems descriptions
+
 public class RansomNote {
 	public static void main(String[] args) {
 	       Scanner in = new Scanner(System.in);

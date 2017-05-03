@@ -33,7 +33,7 @@ public class BinarySearch {
 	}
 	
 	public static void main(String[] args){
-		int[] whitelist = {100, 10,21,20,30,45,66,80,90};
+		int[] whitelist = {100,10,21,20,30,45,66,80,90};
 		Arrays.sort(whitelist);
 		int key = 20;
 		if(indexOf(whitelist, key) != -1)
